@@ -1,38 +1,49 @@
 # 👋 Hi, I'm Manu Sharma
 
 🎓 B.Tech Student | 💻 Aspiring Software Developer  
-🧠 DSA Enthusiast | ⚔️ C++ Programmer
+🧠 DSA Enthusiast | ⚡ C++ Programmer
 
 ---
 
 ## 🚀 About Me
-- 🔭 Currently practicing **Data Structures & Algorithms in C++**
-- 🌱 Learning advanced C++ and competitive coding
-- 💡 Basic knowledge of front-end development (HTML/CSS/JS)
-- 🎯 Goal: Prepare for interviews & build real projects
+- 🔭 Currently practicing **Data Structures & Algorithms in C++**  
+- 🌱 Learning advanced C++ and improving problem-solving skills  
+- 💡 Basic knowledge of front-end development (HTML/CSS/JS)  
+- 🎯 Goal: Build projects, maintain consistent GitHub contributions, and crack product-based interviews
 
 ---
 
 ## 🛠️ Skills
-**Languages:** C++, (basic JavaScript, HTML, CSS)  
-**Core:** DSA, STL, OOPs  
-**Tools:** Git & GitHub
+**Languages:** C++  
+**Core Concepts:** Data Structures & Algorithms, STL, OOP  
+**Tools:** Git & GitHub  
+**Other:** Basic Front-end (HTML, CSS, JavaScript)
 
 ---
 
-## 🌟 Featured Repositories
-- 📘 **DSA-in-Cpp** – Organized C++ DSA practice  
-- 🧠 **LeetCode-Solutions** – C++ solutions to coding problems  
-- 🔁 **Daily-Coding-Practice** – Daily commits & learning journey
+## 📌 Featured Repositories
+- 📘 **DSA-in-Cpp** – Topic-wise C++ DSA practice  
+- 🧠 **LeetCode-Solutions** – Daily C++ problem-solving repository  
+- 🔁 **Daily-Coding-Practice** – Daily commits to show consistency  
+
+> Each repo contains **well-commented code**, folder-wise organization, and explanations for easier reading.
 
 ---
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharmamanu4&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharmamanu4&show_icons=true&theme=tokyonight)
 
 ---
 
-⭐ *“Consistency builds strength.”*
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/manu-sharma12)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail)](mailto:ys5453752@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/sharmamanu4)
+
+---
+
+⭐ *“Consistency builds strength. Code daily, grow steadily.”*
 
 
 
