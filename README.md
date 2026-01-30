@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sharmamanu4
 - 👀 I’m interested in Dsa with c++
 - 🌱 I’m currently learning advance c++ and dsa with some what knowledge of front hand developer 
-- 💞️ I’m looking to collaborate on ...
+
 
 
 <!---
